@@ -1,0 +1,22 @@
+{
+  "name": "dtmctest",
+  "version": "1.0.0",
+  "description": "Dynatrace Management Center TEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmvboykob1/dtmctest.git"
+  },
+  "keywords": [
+    "dtmc"
+  ],
+  "author": "Boyko Vasilev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmvboykob1/dtmctest/issues"
+  },
+  "homepage": "https://github.com/bmvboykob1/dtmctest#readme"
+}
