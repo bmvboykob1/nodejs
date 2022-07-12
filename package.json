@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/bmvboykob1/dtmctest/issues"
   },
-  "homepage": "https://github.com/bmvboykob1/dtmctest#readme"
+  "homepage": "https://github.com/bmvboykob1/dtmctest#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
